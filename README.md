@@ -22,12 +22,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de adianti framework, o ebook é do nicho de programação e o subnicho é de php, o título deve ser épico e curto, e teha uma temática de mad max no título, me liste 5 variações de títulos                                                      |
-| conteúdo | Chat, me crie 5 títulos de possíveis capítulos para um ebook que estou criando que compõe o título "DESBRAVANDO O DESERTO PHP: GUIA PARA INICIANTES DESTEMIDOS", o título se deve porque o tema que escolhi para tratar o assunto é MAD MAX.
-E por favor siga minhas {REGRAS} para a composição dos 5 títulos.
-{REGRAS}
-Associar nome com o filme e/ou personagens do Mad Max.
-Tratar temas simplistas, quero criar o ebook de forma simples apenas como um demonstrativo de o que pode ser capaz de ser realizado utilizando o mesmo.
-O Adianti framework é pago e apesar de utiliza-lo quero trazer apenas informações públicas do mesmo para o meu ebook para que não haja nenhum problema. |
+| conteúdo | Chat, me crie 5 títulos de possíveis capítulos para um ebook que estou criando que compõe o título "DESBRAVANDO O DESERTO PHP: GUIA PARA INICIANTES DESTEMIDOS", o título se deve porque o tema que escolhi para tratar o assunto é MAD MAX. E por favor siga minhas {REGRAS} para a composição dos 5 títulos.
+| regras | {REGRAS} Associar nome com o filme e/ou personagens do Mad Max. Tratar temas simplistas, quero criar o ebook de forma simples apenas como um demonstrativo de o que pode ser capaz de ser realizado utilizando o mesmo. O Adianti framework é pago e apesar de utiliza-lo quero trazer apenas informações públicas do mesmo para o meu ebook para que não haja nenhum problema. |
+
 
 
 TESS AI:
