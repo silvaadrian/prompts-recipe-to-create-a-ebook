@@ -6,13 +6,13 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/silvaadrian/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20mad%20max%20explorando%20o%20php.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [TESS AI](https://tess.pareto.io/dashboard/user/ai/generator/poster-de-filme-disney-pixar-por-at-maria-martasf-etWmK9?guidance_scale=6&image_number_of_images=1&image_size=1024x576&negative_prompt=amputee%2C+autograph%2C+bad+anatomy%2C+bad+illustration%2C+bad+proportions%2C+beyond+the+borders%2C+blank+background%2C+blurry%2C+body+out+of+frame%2C+boring+background%2C+branding%2C+cropped%2C+cut+off%2C+deformed%2C+disfigured%2C+dismembered%2C+disproportioned%2C+distorted%2C+draft%2C+duplicate%2C+duplicated+features%2C+extra+arms%2C+extra+fingers%2C+extra+hands%2C+extra+legs%2C+extra+limbs%2C+fault%2C+flaw%2C+fused+fingers%2C+grains&num_inference_steps=50&prompt_strength=0.9&refine=no_refiner&scheduler=K_EULER&descreva-em-detalhes-a-foto-da-pessoa=mad+max+exploring+the+desert+in+his+black+maverick&image_style=pixel&nome-do-filme-no-poster=Mad+Max&image_lighting=cinematic)
+- [WPS](https://www.wps.com/pt-BR/)
 
 ## 🧠 Prompts
 
@@ -25,10 +25,9 @@ ChatGPT：
 | conteúdo | Chat, me crie 5 títulos de possíveis capítulos para um ebook que estou criando que compõe o título "DESBRAVANDO O DESERTO PHP: GUIA PARA INICIANTES DESTEMIDOS", o título se deve porque o tema que escolhi para tratar o assunto é MAD MAX.
 E por favor siga minhas {REGRAS} para a composição dos 5 títulos.
 {REGRAS}
-> Associar nome com o filme e/ou personagens do Mad Max.
-> Tratar temas simplistas, quero criar o ebook de forma simples apenas como um demonstrativo de o que pode ser capaz de ser realizado utilizando o mesmo.
-> O Adianti framework é pago e apesar de utiliza-lo quero trazer apenas informações públicas do mesmo para o meu ebook para que não haja nenhum problema.
- |
+Associar nome com o filme e/ou personagens do Mad Max.
+Tratar temas simplistas, quero criar o ebook de forma simples apenas como um demonstrativo de o que pode ser capaz de ser realizado utilizando o mesmo.
+O Adianti framework é pago e apesar de utiliza-lo quero trazer apenas informações públicas do mesmo para o meu ebook para que não haja nenhum problema. |
 
 
 TESS AI:
@@ -51,7 +50,7 @@ TESS AI:
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Developer
 
 <p>
     <img 
