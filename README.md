@@ -23,9 +23,9 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de PHP, o ebook é do nicho de programação e o subnicho é de php, o título deve ser épico e curto, e teha uma temática de mad max no título, me liste 5 variações de títulos                                                      |
 | conteúdo | Chat, me crie 5 títulos de possíveis capítulos para um ebook que estou criando que compõe o título "DESBRAVANDO O DESERTO PHP: GUIA PARA INICIANTES DESTEMIDOS", o título se deve porque o tema que escolhi para tratar o assunto é MAD MAX. E por favor siga minhas {REGRAS} para a composição dos 5 títulos.
-| regras | {REGRAS} Associar nome com o filme e/ou personagens do Mad Max. Tratar temas simplistas, quero criar o ebook de forma simples apenas como um demonstrativo de o que pode ser capaz de ser realizado utilizando o mesmo. |
-| capitulos | Faça um texto para ebook, com foco no (capitulo x)
-| regras | {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Crie um nome.Sempre deixe um Titulo e subtitulo sugestivo por tópico. Utilize o contexto do tema MAD MAX.
+| regras de conteúdo | {REGRAS} Associar nome com o filme e/ou personagens do Mad Max. Tratar temas simplistas, quero criar o ebook de forma simples apenas como um demonstrativo de o que pode ser capaz de ser realizado utilizando o mesmo. |
+| capítulo | Faça um texto para ebook, com foco no (capítulo x)
+| regras de capítulo | {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Crie um nome.Sempre deixe um Titulo e subtitulo sugestivo por tópico. Utilize o contexto do tema MAD MAX.
 
 
 
